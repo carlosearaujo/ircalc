@@ -1,6 +1,6 @@
 [submodule "ircalc-ng"]
 	path = ircalc-ng
-	url = https://carlosearaujo@bitbucket.org/carlosearaujo/ircalc-ng.git
+	url = https://github.com/carlosearaujo/ircalc-ng.git
 [submodule "ircalc-core"]
 	path = ircalc-core
-	url = https://carlosearaujo@bitbucket.org/carlosearaujo/ircalc-core.git
+	url = https://github.com/carlosearaujo/ircalc-core.git
